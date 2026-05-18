@@ -11,7 +11,8 @@ export default function RestaurantesRecomendados() {
         <Text style={styles.text}>
             O Sabor Amigo é o seu novo destino para saborear refeições caseiras com um toque especial. 
             Nosso cardápio variado oferece opções para todos os gostos, desde pratos tradicionais até opções mais leves e saudáveis. 
-            Desfrute de marmitex preparadas com ingredientes frescos e de alta qualidade, perfeitas para quem busca uma alimentação equilibrada e saborosa. 
+            Desfrute de marmitex preparadas com ingredientes frescos e de alta qualidade, perfeitas para quem busca uma alimentação equilibrada e saborosa.
+            Faixa de preço: R$ 30 a R$ 100. 
             
         </Text>
       </View>
@@ -21,7 +22,7 @@ export default function RestaurantesRecomendados() {
         <Text style={styles.text}>
           Uma história de quase duas décadas que envolve muita amizade, bons momentos e claro: Pizza!
           A Donna Oliva tem em sua essência unir e reunir famílias, amigos e muita afetividade. 
-          Seja bem-vindo à Donna Oliva.
+          Faixa de preço: R$ 40 a R$ 150.
         </Text>
       </View>
 
@@ -30,6 +31,7 @@ export default function RestaurantesRecomendados() {
         <Text style={styles.text}>
           O Rodízio Japonês mais completo c/ Camarão, Bebidas e Sobremesas tudo ilimitado!
           Aberto todos os dias almoço e jantar.
+          Faixa de preço: R$ 120 a R$ 150.
         </Text>
       </View>
     </ScrollView>
